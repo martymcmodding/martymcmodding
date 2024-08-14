@@ -17,7 +17,7 @@ On the Internet I’m better known by the name “Marty McFly” or nowadays jus
 
 - [Extremely fast arctan2 approximations for GPUs](https://www.shadertoy.com/view/flSXRV)
 - [Unified VNDF Sampler for smith-ggx surfaces](https://www.shadertoy.com/view/MX3XDf) GGX VNDF Sampler that combines the advantages of Dupuy2023 and Tokuyoshi & Eto 2024 
-- [Iterative Algorithms for the H-Index] Efficient algorithm for the H-Curve/H-Index (“Towards Optimal Locality in Mesh-Indexings” (1997), Niedermeier et. al), [forward](https://www.shadertoy.com/view/mlS3Rm) and [inverse](https://www.shadertoy.com/view/mtjSWc) algorithm
+- [Iterative Algorithms for the H-Index] (Efficient algorithm for the H-Curve/H-Index) “Towards Optimal Locality in Mesh-Indexings” (1997), Niedermeier et. al, [forward](https://www.shadertoy.com/view/mlS3Rm) and [inverse](https://www.shadertoy.com/view/mtjSWc) algorithm
 
 ### 🔨 Skills
 - Software: Visual Studio, NVIDIA Nsight, Git, DVC, Unity, Adobe Photoshop, Lightroom, Premiere Pro, InDesign, MS Office
